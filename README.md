@@ -144,8 +144,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Your Name - [Hamza Jami](https://twitter.com/yourtwitter)
 
-Project Link: [https://github.com/yourusername/smart-travel-assistant](https://github.com/yourusername/smart-travel-assistant)
-
----
-
-Made with ❤️ using Streamlit & Google Gemini
